@@ -1,0 +1,6 @@
+module.exports = {
+  images: {
+    domains: ["localhost", "tu-dominio.com"], // ...existing domains...
+  },
+  // ...existing configuration...
+}
